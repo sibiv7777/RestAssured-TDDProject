@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Rest-Assured-DATA-DRIVEN-TESTING">
+<listeners>
+<listener class-name="utility.extentRepor"/>
+</listeners>
+<test name="generateExtentReports" thread-count="4">
+<classes>
+<class name="test.GetEmployeeData"/>
+<class name="test.PostEmployeeData"/>
+<class name="test.PutEmployeeData"/>
+<class name="test.DeleteEmployeeData"/>
+</classes>
+</test>
+
+</suite>

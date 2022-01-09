@@ -1,0 +1,5 @@
+16:02:15.791 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:02:30.055 [main] DEBUG Rest-Assured-DATA-DRIVEN-TESTING - this is degugging
+16:02:30.055 [main] INFO  Rest-Assured-DATA-DRIVEN-TESTING - this is infor
+16:02:30.055 [main] FATAL Rest-Assured-DATA-DRIVEN-TESTING - this is fatal
+16:02:30.055 [main] ERROR Rest-Assured-DATA-DRIVEN-TESTING - this is error
